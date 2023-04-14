@@ -11,18 +11,18 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-<br>
-image
-
+image<br>
+![](https://github.com/yuvasri2005/adder/blob/9b5dd45db75c550b2e92413844cf13b636fbb929/Images/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png) 
 Figure -01 HALF ADDER
+<br>   
 **Full Adder**
 Full adder is a digital circuit used to calculate the sum of three binary bits. It consists of three inputs and two outputs. Two of the input variables, denoted by A and B, represent the two significant bits to be added. The third input, Cin, represents the carry from the previous lower significant position. Two outputs are necessary because the arithmetic sum of three binary digits ranges in value from 0 to 3, and binary 2 or 3 needs two digits. The two outputs are sum and carry.
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
-image
+image<br>
 ![](https://github.com/yuvasri2005/adder/blob/9603fdd8371577f83708957614ed107ccddf17d1/Images/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png) 
-Figure -02 FULL ADDER
+     <br>         Figure -02 FULL ADDER
 <br>
 **Procedure**
 Connect the supply (+5V) to the circuit Switch ON the main switch If the output is 1, then the led glows.
