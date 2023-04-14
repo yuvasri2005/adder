@@ -31,8 +31,9 @@ Program: /* Program to design a half adder and full adder circuit and verify its
 */ Logic symbol & Truthtable RTL realization
 <br>
 **Output:**
-RTL
+RTL<br>
 TIMING DIAGRAM
-TRUTH TABLE
+! [](https://github.com/yuvasri2005/adder/blob/8e6e5442343e90b341943735d23a0099317ca81a/Images/Screenshot%20(18).png) 
+TRUTH TABLE<br>
 <br><br>
 **Result:**
