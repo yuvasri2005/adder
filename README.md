@@ -20,7 +20,7 @@ image
 
 Figure -01 HALF ADDER
 image
-
+[](https://github.com/yuvasri2005/adder/blob/9603fdd8371577f83708957614ed107ccddf17d1/Images/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png) 
 Figure -02 FULL ADDER
 <br>
 **Procedure**
