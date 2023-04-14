@@ -33,7 +33,7 @@ Program: /* Program to design a half adder and full adder circuit and verify its
 **Output:**
 RTL<br>
 TIMING DIAGRAM
-![](https://github.com/yuvasri2005/adder/blob/8e6e5442343e90b341943735d23a0099317ca81a/Images/Screenshot%20(18).png) 
+![](https://github.com/yuvasri2005/adder/blob/4c7cb1c010ef397963d08c7a9194de6cef6029e5/Images/IMG_20230414_212530.png) 
 TRUTH TABLE<br>
 <br><br>
 **Result:**
