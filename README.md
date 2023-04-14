@@ -37,3 +37,4 @@ TIMING DIAGRAM
 TRUTH TABLE<br>
 <br><br>
 **Result:**
+Thus half adder and full adder is successful implemented. 
